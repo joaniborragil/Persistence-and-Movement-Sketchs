@@ -1,1 +1,4 @@
-
+What was challenging for you during this process?
+What makes more sense now than it did before you started?
+What are you proud of?
+  Throughout this process, what was challenging for me was picking a variable which was to track change over time, and how to define this. I had to do some of my research on the internet on how to define it, and what variable was I going to use to track change over time. Fortunately, I was successful and was able to complete the task. In addition, to it being the most challenging part of this process something that makes more sense is the variable which tracked changed over time and exactly what it meant, when coding my project I was between making my variable size or speed, so I chose speed, which was easily to understand. I am proud of making a code that moves, on its own. I know it sounds kind of far-fetched, but I never thought I could make something move continuously, even though in the code it is kind of erratic the movement of my shapes. 
